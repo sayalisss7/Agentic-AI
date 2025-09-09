@@ -11,4 +11,4 @@ An agentic AI assistant that transforms high-level travel and productivity tasks
 ## 🛠️ Tech Stack
 - Python  
 - Hugging Face Transformers  
-- dotenv (for API credential management)  
+
