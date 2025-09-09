@@ -1,1 +1,14 @@
-Learning how to make the Agentic AI's
+# Pathfinder AI 🧭🤖
+An agentic AI assistant that transforms high-level travel and productivity tasks into simple, actionable steps.
+
+## 🚀 Features
+- Breaks down travel tasks into structured plans (e.g., booking, itineraries, packing)
+- Interactive CLI interface for real-time task planning
+- Built on Hugging Face Transformers (DistilGPT2)
+- Uses prompt engineering + controlled text generation (temperature, top-k, top-p, repetition penalty)
+- Extensible for both **travel planning** and **general productivity assistance**
+
+## 🛠️ Tech Stack
+- Python  
+- Hugging Face Transformers  
+- dotenv (for API credential management)  
